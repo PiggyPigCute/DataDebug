@@ -1,0 +1,1 @@
+$tellraw @p ["",{"text":"$(player): ","color":"gray","italic":true},{"score":{"name":"$(player)","objective":"$(score)"},"color":"gray","italic":true}]

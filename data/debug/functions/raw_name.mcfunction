@@ -1,0 +1,1 @@
+$tellraw @p ["",{"text":"$(name): ","color":"gray","italic":true},{"text":"$(raw)","color":"gray","italic":true}]
